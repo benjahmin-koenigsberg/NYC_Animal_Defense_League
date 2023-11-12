@@ -1,8 +1,6 @@
 
 
-
 .container {
-  max-width: 1180px;
   text-align: center;
   margin: 0 auto;
   padding: 0 3rem;
@@ -45,18 +43,6 @@
 }
 
 /* text */
-.text-primary {
-  color: var(--primary-color);
-}
-
-.text-secondary {
-  color: var(--secondary-color);
-}
-
-.text-light {
-  color: var(--light-color);
-}
-
 .bg-light {
   background: var(--light-color);
   color: #333;
