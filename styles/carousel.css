@@ -29,8 +29,6 @@
 }
 
 // Styling
-
-
 section {
     background: #f4f4f4;
     padding: 50px 0;
@@ -40,7 +38,7 @@ section {
     max-width: 1044px;
     margin: 0 auto;
     padding: 0 20px;
-}
+}v
 
 .carousel {
     display: block;
