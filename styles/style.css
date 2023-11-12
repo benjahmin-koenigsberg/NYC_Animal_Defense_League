@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #252529;
+  margin: 0;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #ccc;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
+
+.section {
+  padding: 2rem 0;
+}
+
+.section,
+#merch {
+  padding-top: 2rem;
+
+}
+
+
+#hero {
+  margin: 0;
+  padding: 0;
+  background: url("../images/new-hero-dt.jpeg") no-repeat;
+  width: 100%;
+  height: 100vh;
+  overflow-y: hidden;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+}
+
+#hero .container {
+  margin-top: 20vh;
+}
+
+#campaign {
+  padding: 2rem 0 0 0;
+}
+
+.section h3 {
+  font-size: 2rem;
+}
+
+.section-header {
+  font-size: 3rem;
+}
+
+
+.campaign-lead {
+  padding-bottom: 3rem;
+
+}
+
+.campaign-logo {
+  height: 5rem;
+  width: 5rem;
+
+}
+
+.max-mara {
+  height: 8rem;
+  width: 8rem;
+}
+
+.campaign-btn {
+  margin: 2rem 0;
+  padding: 1rem 4rem;
+  border-radius: 0.5rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.fur-free-img {
+  margin-bottom: 2rem;
+}
+
+
+.instagram-media {
+  margin: auto;
+}
+
+#instagram-embed-0 {
+  margin: auto;
+}
+
+#instagram {
+  padding-top: 2rem;
+}
+
+.VFAR-logo {
+  height: 13rem;
+  width: 13rem;
+  padding-top: 2rem;
+}
+
+
+.merch-image {
+  margin-bottom: -2rem;
+  margin-top: 3rem;
+  padding: 0;
+  background: url("../images/fox3.jpg") no-repeat;
+  width: 100%;
+  height: 25vh;
+  overflow-y: hidden;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+}

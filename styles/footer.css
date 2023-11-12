@@ -1,0 +1,33 @@
+footer .footer-cols {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  grid-gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  padding-bottom: 2rem;
+  text-align: left;
+  font-size: 1rem;
+}
+
+footer .footer-cols ul {
+  list-style: none;
+}
+
+footer .footer-cols ul li:first-child {
+  font-size: 1.2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: #444 solid 1px;
+  margin-bottom: 1rem;
+}
+
+footer .footer-bottom {
+  background: #333;
+  padding: 1rem;
+}
+
+
+figcaption {
+  text-align: center;
+}
+
+
